@@ -1,5 +1,3 @@
-Creating a pull request for Turnkey, LLC.
-=====================================================================================
 Hello there user,
 
 I have created a simple database for you to use. Please read the following instructions to start this application.
