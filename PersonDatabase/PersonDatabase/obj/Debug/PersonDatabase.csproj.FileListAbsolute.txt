@@ -1,0 +1,14 @@
+C:\Users\afier\Documents\PersonDatabase\PersonDatabase\bin\Debug\PersonDatabase.exe.config
+C:\Users\afier\Documents\PersonDatabase\PersonDatabase\bin\Debug\PersonDatabase.exe
+C:\Users\afier\Documents\PersonDatabase\PersonDatabase\bin\Debug\PersonDatabase.pdb
+C:\Users\afier\Documents\PersonDatabase\PersonDatabase\obj\Debug\View.g.cs
+C:\Users\afier\Documents\PersonDatabase\PersonDatabase\obj\Debug\App.g.cs
+C:\Users\afier\Documents\PersonDatabase\PersonDatabase\obj\Debug\PersonDatabase_MarkupCompile.cache
+C:\Users\afier\Documents\PersonDatabase\PersonDatabase\obj\Debug\PersonDatabase_MarkupCompile.lref
+C:\Users\afier\Documents\PersonDatabase\PersonDatabase\obj\Debug\View.baml
+C:\Users\afier\Documents\PersonDatabase\PersonDatabase\obj\Debug\PersonDatabase.g.resources
+C:\Users\afier\Documents\PersonDatabase\PersonDatabase\obj\Debug\PersonDatabase.Properties.Resources.resources
+C:\Users\afier\Documents\PersonDatabase\PersonDatabase\obj\Debug\PersonDatabase.csproj.GenerateResource.Cache
+C:\Users\afier\Documents\PersonDatabase\PersonDatabase\obj\Debug\PersonDatabase.csproj.CoreCompileInputs.cache
+C:\Users\afier\Documents\PersonDatabase\PersonDatabase\obj\Debug\PersonDatabase.exe
+C:\Users\afier\Documents\PersonDatabase\PersonDatabase\obj\Debug\PersonDatabase.pdb

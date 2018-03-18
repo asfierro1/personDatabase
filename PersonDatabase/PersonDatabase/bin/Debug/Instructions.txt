@@ -1,0 +1,10 @@
+Hello there user,
+
+Below is a summary of the buttons with the application:
+1) Clear - Clears all textboxes in the application.
+2) Clear Data - Clears all data that have been entered into the database.
+3) Submit - Adds a new person into the database.
+4) View Data - Presents to you the data that has already been entered into the database.
+5) Exit - Terminates your application.
+
+Note: Please do note that the database only keeps a maximum of ten records only. 
